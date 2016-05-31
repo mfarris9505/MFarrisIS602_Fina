@@ -8,13 +8,16 @@ $ python setup.py install
 As I was using Anaconda primarily, I was able to clone it in my prompt and install it in my ananconda directory.
 
 ## Code: 
+
 The 3 main programs files are: 
 Data_movie_Ratngs.py   USED FOR DATA EXTRACTION 
 Pybrain_train.py       USED FOR PYBRAIN TRAINING
 Pybrain_Test.py        USED FOR TESTING 
 
 
-## Project: The Project is saved as a iPython notebook. Honestly because of the sheer length of training time for the pybrain neural network, I could not produce a function network. Theoretically it would require 11 days to train fully, my machine just couldn't handle that. In the future I will have to look up ways to speed up training of neural networks. 
+## Project: 
+
+The Project is saved as a iPython notebook. Honestly because of the sheer length of training time for the pybrain neural network, I could not produce a function network. Theoretically it would require 11 days to train fully, my machine just couldn't handle that. In the future I will have to look up ways to speed up training of neural networks. 
 
 
 ## EXPLANATION OF CHANGE IN PROPOSAL/TIMELINESS
